@@ -1,6 +1,6 @@
 # Search Stories
 
-Aplicación que que consume la API de Hacker-news para consultar los últimos post. La aplicación un indice i, un numero máximo de hisotrias n y devuelve los detalles de las n hisotiras a partir de la hisotria i.
+Aplicación que que consume la API de Hacker-news para consultar los últimos post. La aplicación recibe un indice i, un numero máximo de hisotrias n y devuelve los detalles de las n hisotiras a partir de la hisotria i.
 
 ## Requisitos :pencil:
 
