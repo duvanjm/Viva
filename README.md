@@ -12,7 +12,7 @@ Aplicación que que consume la API de Hacker-news para consultar los últimos po
 - Clona el repositorio
    ```bash
    $ git clone https://github.com/duvanjm/Viva.git
-   $ cd Viva_air/
+   $ cd Viva/app
    ```
    Ejecute el servidor de django con en comando "python3 manage.py runserver"
 
