@@ -1,4 +1,3 @@
-from tkinter.messagebox import NO
 from django.views import View
 from django.core.cache import cache
 from .utils.Request import Request
